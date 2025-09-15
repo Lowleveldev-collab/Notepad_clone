@@ -14,8 +14,8 @@ A small Python GUI built with PyQt5 to wrap a CLI tool.
 - database integration for saving, deleting, editing, and creating new notes.
 
 ## How to Run
-1. Install PyQt5: `pip install pyqt5`
-2. Run `python main.py`
+1. Install PyQt6: `pip install pyqt6
+2. Run `python Notepad.py`
 
 ## Tech Used
 Python, PyQt5
