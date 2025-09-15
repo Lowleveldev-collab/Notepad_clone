@@ -1,8 +1,5 @@
 # Notepad_clone
-Notepad clone with user accounts, note saving, and dark mode built using PyQt6 + SQLite.
-
-# PyQt GUI Demo
-A small Python GUI built with PyQt5 to wrap a CLI tool.
+Notepad clone with user accounts, note saving, and dark mode built using PyQt6 + SQLite..
 
 ## Features
 - Input field for user commands
@@ -18,5 +15,5 @@ A small Python GUI built with PyQt5 to wrap a CLI tool.
 2. Run `python Notepad.py`
 
 ## Tech Used
-Python, PyQt5
+Python, PyQt6
 
